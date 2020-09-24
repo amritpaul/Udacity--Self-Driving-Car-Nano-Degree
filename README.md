@@ -1,2 +1,2 @@
 # Udacity--Self-Driving-Car-Nano-Degree
-Sample readme
+This repository contains all the codes related to Udacity's Self Driving Car Nanodegree
