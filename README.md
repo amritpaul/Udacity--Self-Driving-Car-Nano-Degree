@@ -7,8 +7,6 @@ This repository includes projects done as part of Self-Driving Car Engineer Nano
 
 Project 1 - Finding Lane Lines on the Road using computer vision
 
-![](./resources/laneLines.jpg)
-
 Project 2 - Advanced Lane Finding using computer vision
 
 ![](./resources/lane_detect.gif)
