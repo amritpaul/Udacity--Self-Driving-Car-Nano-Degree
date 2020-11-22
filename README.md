@@ -7,13 +7,22 @@ This repository includes projects done as part of Self-Driving Car Engineer Nano
 
 Project 1 - Finding Lane Lines on the Road using computer vision
 
-Project 2 - Advanced Lane Finding using computer vision 
+Project 2 - Advanced Lane Finding using computer vision
+![](./resources/lane_detect.gif)
 
 Project 3 - Traffic Sign Classifier using deep learning and TensorFlow 
 
 Project 4 - Behavioral Cloning using deep learning and Keras
+![](./resources/clone.gif)
 
 Project 5 - Extended Kalman Filter
+
+Project 6 - Kidnapped Vehicle Project
+
+Project 7 - Path Planning Project
+
+Project 8 - PID Control Project
+![](./resources/pid.gif)
 
 
 
